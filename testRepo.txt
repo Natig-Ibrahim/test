@@ -1,1 +1,2 @@
 ilk testrepo
+statusu yoxlamaq ucun deyishiklik olundu!
